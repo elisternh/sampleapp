@@ -1,0 +1,4 @@
+  PID TTY           TIME CMD
+  251 ttys000    0:00.21 -bash
+ 6217 ttys000    0:01.43 /Users/elisternheim/.rvm/rubies/ruby-2.0.0-p247/bin/ruby bin/rails s
+ 6219 ttys001    0:00.10 -bash
